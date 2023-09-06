@@ -1,4 +1,26 @@
 .title {
-    text-align: center;
-    font-size: 100px;
-  }
+  text-align: center;
+  font-size: 100px;
+}
+#image {
+  width: 99.8%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+body {
+background-color: #b8e8ff;
+}
+#img-caption {
+  text-align: center;
+  font-size: 20px;
+}
+.indent {
+  margin: 0 0 0 20px;
+  display: inline;
+}
+
+#tribute-link{
+  margin: 0 auto;
+}
